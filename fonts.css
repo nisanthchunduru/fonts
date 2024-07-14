@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "proxima-nova";
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/ProximaNova/ProximaNova-Regular.otf");
+}
+@font-face {
+  font-family: "proxima-nova";
+  font-weight: bold;
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/ProximaNova/ProximaNova-Bold.otf");
+}
+@font-face {
+  /* font-family: "proxima-nova-semibold"; */
+  font-family: "proxima-nova";
+  font-weight: 600;
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/ProximaNova/ProximaNova-Semibold.otf");
+}
+@font-face {
+  /* font-family: "proxima-nova-light"; */
+  font-family: "proxima-nova";
+  font-weight: 300;
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/ProximaNova/ProximaNova-Light.otf");
+}
+
+@font-face {
+  font-family: "gt-walsheim-pro-regular";
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/gt-walsheim-pro/GT-Walsheim-Pro-Regular.ttf");
+}
+
+@font-face {
+  font-family: "colfax";
+  font-weight: normal;
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/Colfax/Colfax-Regular.otf");
+}
+@font-face {
+  font-family: "colfax";
+  font-weight: bold;
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/Colfax/Colfax-Bold.otf");
+}
+
+@font-face {
+  font-family: "adelle-sans";
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/adelle-sans/AdelleSans-Regular.otf");
+}
+@font-face {
+  font-family: "adelle-sans";
+  font-weight: bold;
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/adelle-sans/AdelleSans-Bold.otf");
+}
+@font-face {
+  font-family: "adelle-sans";
+  font-style: italic;
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/adelle-sans/AdelleSans-Italic.otf");
+}
+
+@font-face {
+  font-family: "avenir-next";
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/AvenirNext/AvenirNext-Regular.otf");
+}
+@font-face {
+  font-family: "avenir-next";
+  font-weight: bold;
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/AvenirNext/AvenirNext-Bold.otf");
+}
