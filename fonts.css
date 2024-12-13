@@ -60,3 +60,8 @@
   font-weight: bold;
   src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/AvenirNext/AvenirNext-Bold.otf");
 }
+
+@font-face {
+  font-family: "everett";
+  src: url("https://cdn.statically.io/gh/nisanthchunduru/fonts/master/Everett/Everett-Regular.otf");
+}
